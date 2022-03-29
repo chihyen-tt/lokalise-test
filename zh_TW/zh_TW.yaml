@@ -1,0 +1,13 @@
+zh_TW:
+    ttswap_dex_farmer_1:
+        name: 晚安？
+        description: '在 TTSwap 中添加流動性（ {number} TT 和等價的 TT-USDT）並持有{day}天。您可以享受高達 175% APY 的額外流動性。'
+    ttsocial_origin:
+        name: 'TT 社會推動者'
+        description: '轉推特定的 ThunderCore 推文。'
+    ttsocial_tt20_std:
+        name: 'TT20 標準'
+        description: 'Retweet [ThunderCore 互操作性背後的代幣標準]'
+    ttsocial_tt20_eco:
+        name: 'TT20 關於迅雷生態系統'
+        description: 轉推【TT20可以在Thunder生態上做很多互操作】
