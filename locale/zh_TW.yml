@@ -1,6 +1,6 @@
 zh_TW:
     ttswap_dex_farmer_1:
-        name: 'DEX 農夫'
+        name: 是在哭哭？
         description: '在 TTSwap 中添加流動性（ {number} TT 和等價的 TT-USDT）並持有{day}天。您可以享受高達 175% APY 的額外流動性。'
     ttsocial_origin:
         name: 'TT 社會推動者'
