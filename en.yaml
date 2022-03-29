@@ -1,560 +1,403 @@
 en:
   ttswap_dex_farmer_1:
-    name: 'DEX Farmer'
-    description: 'Add liquidity ({number} TT and equivalent TT-USDT) in TTSwap and hold for {day} days. You can enjoy up to an extra 175% APY for adding liquidity.'
+    name: "DEX Farmer"
+    description: "Add liquidity ({number} TT and equivalent TT-USDT) in TTSwap and hold for {day} days. You can enjoy up to an extra 175% APY for adding liquidity."
   ttsocial_origin:
-    name: 'TT social promoter'
-    description: 'Retweet specific ThunderCore tweet.'
+    name: "TT social promoter"
+    description: "Retweet specific ThunderCore tweet."
   ttsocial_tt20_std:
-    name: 'TT20 Standard'
-    description: 'Retweet [The token standard behind ThunderCore''s interoperability]'
+    name: "TT20 Standard"
+    description: "Retweet [The token standard behind ThunderCore's interoperability]"
   ttsocial_tt20_eco:
-    name: 'TT20 on Thunder Ecosystem'
-    description: 'Retweet [TT20 can do a lot on Thunder Ecosystem with interoperability]'
+    name: "TT20 on Thunder Ecosystem"
+    description: "Retweet [TT20 can do a lot on Thunder Ecosystem with interoperability]"
   ttsocial_bridge_hub_web:
-    name: 'ThunderBridge on Hub or Web'
-    description: 'Retweet [Use ThunderBridge on Hub or Web, your choice]'
+    name: "ThunderBridge on Hub or Web"
+    description: "Retweet [Use ThunderBridge on Hub or Web, your choice]"
   ttsocial_thundercore_rising:
-    name: 'ThunderCore is rising'
-    description: 'The other big blockchain trend is the rise of Thundercore as a hypercasual gaming platform.'
+    name: "ThunderCore is rising"
+    description: "The other big blockchain trend is the rise of Thundercore as a hypercasual gaming platform."
   ttsocial_ttswap_60m:
-    name: '60M TT traded on TTSwap in a day'
-    description: 'Over 60,000,000 TT traded on TTSwap, and Over 1% return on that day'
+    name: "60M TT traded on TTSwap in a day"
+    description: "Over 60,000,000 TT traded on TTSwap, and Over 1% return on that day"
   ttsocial_most_active_dapps:
-    name: 'Most active Dapps'
-    description: 'TT Mining is in the Most Active Dapps in a week from dapp.com'
+    name: "Most active Dapps"
+    description: "TT Mining is in the Most Active Dapps in a week from dapp.com"
   ttsocial_on_dapp_com:
-    name: 'Thunder Dapps on dapp.com'
-    description: 'Retweet [ThunderCore Column Opened on Dapp.com to Display DApps Data]'
+    name: "Thunder Dapps on dapp.com"
+    description: "Retweet [ThunderCore Column Opened on Dapp.com to Display DApps Data]"
   ttsocial_cheaper_faster:
-    name: 'Thunder is Positioned as Cheaper Faster Ethereum'
-    description: 'Thunder is positioned as Cheaper Faster Ethereum and being explored as Stablecoin solution platform'
+    name: "Thunder is Positioned as Cheaper Faster Ethereum"
+    description: "Thunder is positioned as Cheaper Faster Ethereum and being explored as Stablecoin solution platform"
   ttsocial_aware_fake_site:
-    name: 'Beware of the fake site!'
-    description: 'Beware of phishing website! http://Curve.fi is the real site. Share this with your crypto friends.'
+    name: "Beware of the fake site!"
+    description: "Beware of phishing website! http://Curve.fi is the real site. Share this with your crypto friends."
   ttsocial_top_4_chain:
-    name: 'Thunder recognized as Top 4 Chain'
-    description: 'Dapp.com recoginze ThunderCore as top 4 public blockchain!'
+    name: "Thunder recognized as Top 4 Chain"
+    description: "Dapp.com recoginze ThunderCore as top 4 public blockchain!"
   ttsocial_thunder_eco_update:
-    name: 'Thunder Ecosystem Updates'
-    description: 'Thunder is ready to share Eco with dev teams!'
+    name: "Thunder Ecosystem Updates"
+    description: "Thunder is ready to share Eco with dev teams!"
   ttsocial_riser_onboard:
-    name: 'Welcome New Defi project join Thunder family'
-    description: 'Welcome Riser joining Thunder Eco, try new model and figure out best idea on Chain, way to Go!'
+    name: "Welcome New Defi project join Thunder family"
+    description: "Welcome Riser joining Thunder Eco, try new model and figure out best idea on Chain, way to Go!"
   ttsocial_fameex_promote:
-    name: 'Fameex promote Thunder Offline'
-    description: 'We do LOVE partners promote us on offline events! Join Thunder Eco and we promote you also!'
+    name: "Fameex promote Thunder Offline"
+    description: "We do LOVE partners promote us on offline events! Join Thunder Eco and we promote you also!"
   ttsocial_punchline_choose_thundercore:
-    name: 'Why Choose ThudnerCore'
-    description: 'Why Punchline choose ThunderCore instead of Ethereum'
+    name: "Why Choose ThudnerCore"
+    description: "Why Punchline choose ThunderCore instead of Ethereum"
   ttsocial_thunder_welcomes_dapps:
-    name: 'Thunder welcomes Dapps'
-    description: 'Millions Hub users will create great Thunder Eco'
+    name: "Thunder welcomes Dapps"
+    description: "Millions Hub users will create great Thunder Eco"
   ttsocial_taipei_gov_node:
-    name: 'Taipei Gov running Thunder Node'
-    description: 'Taipei Gov announced Thunder Node as blockchain platfrom is live'
+    name: "Taipei Gov running Thunder Node"
+    description: "Taipei Gov announced Thunder Node as blockchain platfrom is live"
   ttsocial_thunder_330k_mau:
-    name: 'Thunder Promoter'
-    description: 'Thunder got 330k MAU, TT promoter also can send tons of attention to your dapps'
+    name: "Thunder Promoter"
+    description: "Thunder got 330k MAU, TT promoter also can send tons of attention to your dapps"
   ttsocial_welcome_firestack:
-    name: 'Welcome Firestack'
-    description: 'Welcome new Defi project Firestack join Thunder family'
+    name: "Welcome Firestack"
+    description: "Welcome new Defi project Firestack join Thunder family"
   ttsocial_thunder_numbers_partnership:
-    name: 'Numbers Partnership'
-    description: 'Numbers parter with Thunder to improve the user experience'
+    name: "Numbers Partnership"
+    description: "Numbers parter with Thunder to improve the user experience"
   ttsocial_thunder_numbers_integrated:
-    name: 'Numbers intergrated with Thunder'
-    description: 'After intergrate with Thunder, Numbers 5 times faster than before'
+    name: "Numbers intergrated with Thunder"
+    description: "After intergrate with Thunder, Numbers 5 times faster than before"
   ttsocial_best_place_build_dapps:
-    name: 'Best place to build Dapps'
-    description: 'Thunder is the best place to test your dapp ideas'
+    name: "Best place to build Dapps"
+    description: "Thunder is the best place to test your dapp ideas"
   ttsocial_dapp_top5:
-    name: 'Thunder dapp listed on top 5 by users'
-    description: 'From dapp.com, 2 dapps from Thunder are listed on Top 5 across all protocols'
+    name: "Thunder dapp listed on top 5 by users"
+    description: "From dapp.com, 2 dapps from Thunder are listed on Top 5 across all protocols"
   ttsocial_amazing_thunder_2020:
-    name: 'Amazing Thunder 2020'
-    description: 'Check our amazing 2020 yearly growth report'
+    name: "Amazing Thunder 2020"
+    description: "Check our amazing 2020 yearly growth report"
   ttsocial_help_the_cows:
-    name: 'Retweet to Help the cows'
-    description: 'The forest need your support! Retweet to encourage your friends to do the same!'
+    name: "Retweet to Help the cows"
+    description: "The forest need your support! Retweet to encourage your friends to do the same!"
   ttsocial_jeans_emitting_carbon:
-    name: 'Do You Know Your Jeans are Emitting Carbon?'
-    description: 'You could help out by retweeting and allow more to protect our earth.'
+    name: "Do You Know Your Jeans are Emitting Carbon?"
+    description: "You could help out by retweeting and allow more to protect our earth."
   ttsocial_burger_emitting_alot:
-    name: 'Burger for Dinner? Hamburger Emits as Much as a gallon of Gasoline!'
-    description: 'You could help out by retweeting and allow more to protect our earth.'
+    name: "Burger for Dinner? Hamburger Emits as Much as a gallon of Gasoline!"
+    description: "You could help out by retweeting and allow more to protect our earth."
   ttsocial_list_token_on_dex:
-    name: 'Easiest way to list your token on DEX'
-    description: 'ThunderCore Hub has 34k DAU, and great place to list your token on'
+    name: "Easiest way to list your token on DEX"
+    description: "ThunderCore Hub has 34k DAU, and great place to list your token on"
   ttsocial_taipei_office_hiring:
-    name: 'ThunderCore''s Taipei Office is hiring'
-    description: 'ThunderCore''s Taipei Office is hiring! Let us know if you are a talented professional interested in Blockchains or know someone who fits the job description'
+    name: "ThunderCore's Taipei Office is hiring"
+    description: "ThunderCore's Taipei Office is hiring! Let us know if you are a talented professional interested in Blockchains or know someone who fits the job description"
   ttsocial_dappradar_better_thunder_eco:
-    name: 'Work with DappRadar for better Thunder Eco'
-    description: 'Build your next rocket Dapp on Thunder now'
+    name: "Work with DappRadar for better Thunder Eco"
+    description: "Build your next rocket Dapp on Thunder now"
   ttsocial_ttswap_official:
-    name: 'TTSwap is official now'
-    description: 'Take over TTSwap for better Thunder DeFi'
+    name: "TTSwap is official now"
+    description: "Take over TTSwap for better Thunder DeFi"
   ttsocial_thunder_dev_rewards_2021:
-    name: 'Thunder Dev Rewards 2021'
-    description: 'Deploy to Thunder to get free marketing & big reward'
+    name: "Thunder Dev Rewards 2021"
+    description: "Deploy to Thunder to get free marketing & big reward"
   ttsocial_welcome_easy_usdt:
-    name: 'Welcome Easy USDT join Thunder Eco'
-    description: '3 easy and funny steps to get TT-USDT by credit card'
+    name: "Welcome Easy USDT join Thunder Eco"
+    description: "3 easy and funny steps to get TT-USDT by credit card"
   ttsocial_external_retweet_help_earth:
-    name: 'Retweet to Help the Earth!'
-    description: 'The forest need your support! Retweet to encourage your friends to do the same!'
+    name: "Retweet to Help the Earth!"
+    description: "The forest need your support! Retweet to encourage your friends to do the same!"
   ttsocial_external_give_the_gift_carbon_credits:
-    name: 'Give the Gift of Carbon Credits!'
-    description: 'You could help out by retweeting and allow more to protect our earth.'
+    name: "Give the Gift of Carbon Credits!"
+    description: "You could help out by retweeting and allow more to protect our earth."
   ttsocial_external_retweet_save_trees:
-    name: 'Retweet to save more trees!'
-    description: 'You could help out by retweeting and encourage your friends to protect our earth.'
+    name: "Retweet to save more trees!"
+    description: "You could help out by retweeting and encourage your friends to protect our earth."
   ttsocial_external_burger_emits_lots_gasoline:
-    name: 'Burger for Dinner? Hamburger Emits as Much as a gallon of Gasoline!'
-    description: 'You could help out by retweeting and encourage your friends to protect our earth.'
+    name: "Burger for Dinner? Hamburger Emits as Much as a gallon of Gasoline!"
+    description: "You could help out by retweeting and encourage your friends to protect our earth."
   ttsocial_best_place_build_dapps2:
-    name: 'Best place to build Dapps'
-    description: 'Fill in the form to get active crypto users and free marketing'
+    name: "Best place to build Dapps"
+    description: "Fill in the form to get active crypto users and free marketing"
   ttsocial_serious_dice_case_study:
-    name: 'Serious Dice case study'
-    description: 'With the help of Thunder Eco, Serious Dice ranks among the top on 7D/24H users'
+    name: "Serious Dice case study"
+    description: "With the help of Thunder Eco, Serious Dice ranks among the top on 7D/24H users"
   ttsocial_ttswap_info_go_live:
-    name: 'TTSwap info page launches'
-    description: 'TTSwap adds data info pages for transparency and convenience for users'
+    name: "TTSwap info page launches"
+    description: "TTSwap adds data info pages for transparency and convenience for users"
   ttsocial_subscribe_newsletter:
-    name: 'Subscribe for Thunder Newsletter'
-    description: 'Subscribe to Thunder newsletter for the latest news and insights'
+    name: "Subscribe for Thunder Newsletter"
+    description: "Subscribe to Thunder newsletter for the latest news and insights"
   ttsocial_tt_on_binance_jex:
-    name: 'Trade TT on Binance JEX'
-    description: 'TT is listed on Binance JEX and TT/USDT is supported. Welcome to trade'
+    name: "Trade TT on Binance JEX"
+    description: "TT is listed on Binance JEX and TT/USDT is supported. Welcome to trade"
   ttsocial_bsc_pre_launch:
-    name: 'Binance Smart Chain (BSC) integration'
-    description: 'TT-BNB, TT-BUSD will be on ThunderCore Hub and TT will be on Pancake Swap soon!'
+    name: "Binance Smart Chain (BSC) integration"
+    description: "TT-BNB, TT-BUSD will be on ThunderCore Hub and TT will be on Pancake Swap soon!"
   ttsocial_bsc_live:
-    name: 'Binance Smart Chain (BSC) integrated'
-    description: 'TT-BNB, TT-BUSD listed on ThunderCore Hub and BEP20-TT listed on Pancake Swap now! Welcome to trade!'
+    name: "Binance Smart Chain (BSC) integrated"
+    description: "TT-BNB, TT-BUSD listed on ThunderCore Hub and BEP20-TT listed on Pancake Swap now! Welcome to trade!"
   ttsocial_bsc_airdrop:
-    name: 'ThunderCore x BSC Airdrop'
-    description: '$40,000 to be earned to celebrate the integrated with BSC. Join now!'
+    name: "ThunderCore x BSC Airdrop"
+    description: "$40,000 to be earned to celebrate the integrated with BSC. Join now!"
   ttsocial_bsc_cross_chain:
-    name: 'Cross-chain service with BSC'
-    description: 'Thanks to ThunderCore Bridge, TTSwap can exchange ETH, BTC, BNB, BUSD, and more. Trade now!'
+    name: "Cross-chain service with BSC"
+    description: "Thanks to ThunderCore Bridge, TTSwap can exchange ETH, BTC, BNB, BUSD, and more. Trade now!"
   ttsocial_binance_wallet_bnb_deposit:
-    name: 'Voice on Supporting BNB Internal Transaction Deposit on Binance'
-    description: 'Some users'' assets lost for BNB internal transaction deposit is not supported on Binance. Retweet to let the community''s voice be heard.'
+    name: "Voice on Supporting BNB Internal Transaction Deposit on Binance"
+    description: "Some users' assets lost for BNB internal transaction deposit is not supported on Binance. Retweet to let the community's voice be heard."
   ttsocial_vote_next_project:
-    name: 'Vote for the next project on ThunderCore'
-    description: 'What project do you expect to see on ThunderCore next?'
+    name: "Vote for the next project on ThunderCore"
+    description: "What project do you expect to see on ThunderCore next?"
   ttsocial_list_on_imtoken:
-    name: 'ThunderCore Mainnet avaliable on imToken'
-    description: 'The ThunderCore Mainnet is added to imToken''s network. More integration for our ecosystem!'
+    name: "ThunderCore Mainnet avaliable on imToken"
+    description: "The ThunderCore Mainnet is added to imToken's network. More integration for our ecosystem!"
   ttsocial_mazer_game_on_peerkat:
-    name: 'Launch day for Mazer Gaming on Peerkat'
-    description: 'Make sure you visit our homepage and jump on Peerkat to check it out!'
+    name: "Launch day for Mazer Gaming on Peerkat"
+    description: "Make sure you visit our homepage and jump on Peerkat to check it out!"
   ttsocial_newbie_bonus:
-    name: 'Newbie mission bonus'
-    description: 'ThunderCore Hub is the easiest and full-featured wallet, get your friends to try now!'
+    name: "Newbie mission bonus"
+    description: "ThunderCore Hub is the easiest and full-featured wallet, get your friends to try now!"
   ttsocial_tutorial_contest_pre:
-    name: 'Come show your masterpiece! Join our Tutorial Contest to win 40,000 TT!'
-    description: 'Participate and get a chance to be featured as our official tutorial for our users!'
+    name: "Come show your masterpiece! Join our Tutorial Contest to win 40,000 TT!"
+    description: "Participate and get a chance to be featured as our official tutorial for our users!"
   ttsocial_tutorial_contest_begin:
-    name: 'Tutorial Contest begins! Start submitting your masterpiece!'
-    description: 'Participate to win 40,000 TT! Come and showcase your skills to our beloved community!'
+    name: "Tutorial Contest begins! Start submitting your masterpiece!"
+    description: "Participate to win 40,000 TT! Come and showcase your skills to our beloved community!"
   ttsocial_houbi_top_trading:
-    name: 'TT #3 on Huobi''s top gainers!'
-    description: 'Are you in on the action?'
+    name: "TT #3 on Huobi's top gainers!"
+    description: "Are you in on the action?"
   ttsocial_nft_djkaku_coming:
-    name: 'Our NFT Collaboration with DJ KAKU is Coming Soon!'
-    description: 'A NFT project for a good cause. Stay tuned for more!'
+    name: "Our NFT Collaboration with DJ KAKU is Coming Soon!"
+    description: "A NFT project for a good cause. Stay tuned for more!"
   ttsocial_nft_djkaku_out:
-    name: 'ThunderCore x DJ KAKU NFT is Out Now!'
-    description: 'Partial sales proceeds will be donated to the AIDS Foundation. Get great music AND support a great cause.'
+    name: "ThunderCore x DJ KAKU NFT is Out Now!"
+    description: "Partial sales proceeds will be donated to the AIDS Foundation. Get great music AND support a great cause."
   ttsocial_indacoin_telegram_bot:
-    name: 'Buy TT with Indacoin''s Telegram Bot'
-    description: 'You can now buy TT with your credit/debit card with ease through Indacoin''s Telegram bot. Experience it now!'
+    name: "Buy TT with Indacoin's Telegram Bot"
+    description: "You can now buy TT with your credit/debit card with ease through Indacoin's Telegram bot. Experience it now!"
   ttsocial_ttswap_on_imtoken:
-    name: 'ThunderCore Mainnet and TTSwap now on imToken'
-    description: 'You can access our network and DEX TTSwap in the imToken app. Go check it out and start exchanging the hottest cryptos in the market!'
+    name: "ThunderCore Mainnet and TTSwap now on imToken"
+    description: "You can access our network and DEX TTSwap in the imToken app. Go check it out and start exchanging the hottest cryptos in the market!"
   ttsocial_tt_on_uniswap_v3:
-    name: 'TT to be listed on Uniswap V3!'
-    description: 'TT trading pair will be available on Uniswap V3. Cross-chain yield farming between ThunderCore and Ethereum coming soon!'
+    name: "TT to be listed on Uniswap V3!"
+    description: "TT trading pair will be available on Uniswap V3. Cross-chain yield farming between ThunderCore and Ethereum coming soon!"
   ttsocial_tt_uniswap_v3_live:
-    name: 'TT now listed on Uniswap V3!'
-    description: 'ThunderCore''s cross-chain yield-farming and IXO coming soon. Get ready for a brand new token!'
+    name: "TT now listed on Uniswap V3!"
+    description: "ThunderCore's cross-chain yield-farming and IXO coming soon. Get ready for a brand new token!"
   ttsocial_ttfarm_upgrade:
-    name: 'TT Farm is looking to upgrade!'
-    description: 'More features coming on TT Farm. Share your feedback now!'
+    name: "TT Farm is looking to upgrade!"
+    description: "More features coming on TT Farm. Share your feedback now!"
   ttsocial_bridge_filecoin_ttswap:
-    name: 'ThunderCore integrates Filecoin to Expand DeFi Services'
-    description: 'RenFIL will be bridged to ThunderCore as TT-FIL. TT-FIL related trading pairs will also be listed on TTSwap. Stay tuned!'
+    name: "ThunderCore integrates Filecoin to Expand DeFi Services"
+    description: "RenFIL will be bridged to ThunderCore as TT-FIL. TT-FIL related trading pairs will also be listed on TTSwap. Stay tuned!"
   ttsocial_vaness_wu_nft:
-    name: 'Artist Vaness Wu set to release NFT on the ThunderCore blockchain'
-    description: 'Sales proceeds will be donated to an NGO that focuses on improving the lives of children with special needs.'
+    name: "Artist Vaness Wu set to release NFT on the ThunderCore blockchain"
+    description: "Sales proceeds will be donated to an NGO that focuses on improving the lives of children with special needs."
   ttsocial_thundercore_layer2:
-    name: 'Why ThunderCore Outperforms Layer 2 Solutions'
-    description: 'L2 solutions aim to solve scalability and congestion issues. ThunderCore''s high through-put does just that and more. Learn how.'
+    name: "Why ThunderCore Outperforms Layer 2 Solutions"
+    description: "L2 solutions aim to solve scalability and congestion issues. ThunderCore's high through-put does just that and more. Learn how."
   ttsocial_thundercore_6things:
-    name: '6 Things You Need to Know about ThunderCore'
-    description: 'Learn more about the ThunderCore network and its signature products!'
+    name: "6 Things You Need to Know about ThunderCore"
+    description: "Learn more about the ThunderCore network and its signature products!"
   ttsocial_nft_on_thundercore:
-    name: 'Everything you need to know about NFTs on ThunderCore so far'
-    description: 'In case you missed out: A recap on NFT projects on ThunderCore and what''s coming next!'
+    name: "Everything you need to know about NFTs on ThunderCore so far"
+    description: "In case you missed out: A recap on NFT projects on ThunderCore and what's coming next!"
   ttsocial_captureclub_on_hub:
-    name: 'CaptureubCl NFT marketplace listed on ThunderCore Hub'
-    description: 'Come check out the latest NFT drops on the ThunderCore blockchain now!'
+    name: "CaptureubCl NFT marketplace listed on ThunderCore Hub"
+    description: "Come check out the latest NFT drops on the ThunderCore blockchain now!"
   ttsocial_hub_add_nft_category:
-    name: 'ThunderCore Hub adds new NFT category tab'
-    description: 'CaptureClub, the next-generation NFT marketplace, is now live on ThunderCore Hub. Visit now!'
+    name: "ThunderCore Hub adds new NFT category tab"
+    description: "CaptureClub, the next-generation NFT marketplace, is now live on ThunderCore Hub. Visit now!"
   ttsocial_thunder_mainnet_upgrade:
-    name: 'Incoming ThunderCore Mainnet Upgrades'
-    description: 'These upgrades seek to improve the performance, security, and scalability of the ThunderCore blockchain. Learn more.'
+    name: "Incoming ThunderCore Mainnet Upgrades"
+    description: "These upgrades seek to improve the performance, security, and scalability of the ThunderCore blockchain. Learn more."
   ttsocial_ecosystem_complete_guide:
-    name: 'A complete guide on navigating TT''s ecosystem'
-    description: 'Here''s a deep dive into TT''s ecosystem, guiding you on everything you need to know about the cryptocurrency. Learn more.'
+    name: "A complete guide on navigating TT's ecosystem"
+    description: "Here's a deep dive into TT's ecosystem, guiding you on everything you need to know about the cryptocurrency. Learn more."
   ttsocial_tt_on_changelly_pro_soon:
-    name: 'Thunder Token to be listed on Changelly PRO!'
-    description: 'In a few days, users can start trading TT on Changelly PRO, a custodial full-featured exchange platform by Changelly.'
+    name: "Thunder Token to be listed on Changelly PRO!"
+    description: "In a few days, users can start trading TT on Changelly PRO, a custodial full-featured exchange platform by Changelly."
   ttsocial_captureclub_sales_up_30%:
-    name: 'How CaptureClub increased its NFT sales by 30% in 2 weeks'
-    description: 'TT is now available as a payment method on CaptureClub. Start shopping NFTs now.'
+    name: "How CaptureClub increased its NFT sales by 30% in 2 weeks"
+    description: "TT is now available as a payment method on CaptureClub. Start shopping NFTs now."
   ttsocial_tt_on_changelly_pro:
-    name: 'Thunder Token now listed on Changelly PRO!'
-    description: 'Start trading TT on Changelly PRO! A trading competition will start in a few days. Stay tuned!'
+    name: "Thunder Token now listed on Changelly PRO!"
+    description: "Start trading TT on Changelly PRO! A trading competition will start in a few days. Stay tuned!"
   ttsocial_trading_competition_changelly:
-    name: 'Thunder Token Trading Competition now LIVE on Changelly PRO'
-    description: '$10,000 as the total prize pool. The more you trade, the higher are your chances to win. Join now!'
+    name: "Thunder Token Trading Competition now LIVE on Changelly PRO"
+    description: "$10,000 as the total prize pool. The more you trade, the higher are your chances to win. Join now!"
   ttsocial_thunder_heco_interoperability:
-    name: 'ThunderCore and HECO to establish mutual interoperability'
-    description: 'With this partnership, TT will be bridged to HECO; Huobi Token (HT) and HUSD will be bridged to ThunderCore.'
+    name: "ThunderCore and HECO to establish mutual interoperability"
+    description: "With this partnership, TT will be bridged to HECO; Huobi Token (HT) and HUSD will be bridged to ThunderCore."
   ttsocial_bridge_heco_now_live:
-    name: 'Cross-chain compatibility with HECO now LIVE'
-    description: 'With this successful integration, TT-HT & TT-HUSD are now available on ThunderCore Hub and TTSwap. TT is also available on Ethereum, BSC, and HECO.'
+    name: "Cross-chain compatibility with HECO now LIVE"
+    description: "With this successful integration, TT-HT & TT-HUSD are now available on ThunderCore Hub and TTSwap. TT is also available on Ethereum, BSC, and HECO."
   ttsocial_heco_trading_competition:
-    name: 'ThunderCore X HECO trading competition now LIVE on TTSwap'
-    description: '$20,000 as the total prize pool. Learn how to qualify now!'
+    name: "ThunderCore X HECO trading competition now LIVE on TTSwap"
+    description: "$20,000 as the total prize pool. Learn how to qualify now!"
   ttsocial_animation_music_nft_contest:
-    name: 'ThunderCore is the co-organizer in the upcoming Animation X Music NFT Contest'
-    description: 'Learn more on how to win prizes of up to 1 million Yen!'
+    name: "ThunderCore is the co-organizer in the upcoming Animation X Music NFT Contest"
+    description: "Learn more on how to win prizes of up to 1 million Yen!"
   ttsocial_ttswap_liquidity_provider:
-    name: 'Become a liquidity provider and earn from high-yield pools on TTSwap'
-    description: 'Currently supporting 18 tradings pairs: WBTC, ETH, BNB, USDT, BUSD, and more!'
+    name: "Become a liquidity provider and earn from high-yield pools on TTSwap"
+    description: "Currently supporting 18 tradings pairs: WBTC, ETH, BNB, USDT, BUSD, and more!"
   ttsocial_anime_music_nft_contest_live:
-    name: 'Animation X Music NFT Contest has begun!'
-    description: 'Issue loop anime vibes as NFTs on ThunderCore and qualify to win up to 1 million Yen! Learn more.'
+    name: "Animation X Music NFT Contest has begun!"
+    description: "Issue loop anime vibes as NFTs on ThunderCore and qualify to win up to 1 million Yen! Learn more."
   ttsocial_ftt_on_ttswap:
-    name: 'Farm Thunder Token (FTT) has launched on TTSwap'
-    description: 'Join TTFarm''s massive Airdrop Giveaway and IFO on Ram Protocol to earn FTT!'
+    name: "Farm Thunder Token (FTT) has launched on TTSwap"
+    description: "Join TTFarm's massive Airdrop Giveaway and IFO on Ram Protocol to earn FTT!"
   ttsocial_thunder_tokens_on_swft:
-    name: 'TT, TT-BUSD, TT-USDT, & TT-USDC are launching on SWFT All Chain Swap'
-    description: 'Soon, users will be able to access SWFT All Chain Swap on ThunderCore Hub!'
+    name: "TT, TT-BUSD, TT-USDT, & TT-USDC are launching on SWFT All Chain Swap"
+    description: "Soon, users will be able to access SWFT All Chain Swap on ThunderCore Hub!"
   ttsocial_ttswap_passive_income:
-    name: 'Earn an abundance amount of passive income on TTSwap'
-    description: 'Become liquidity providers on ThunderCore''s DEX and start earning from multiple high-yield pools!'
+    name: "Earn an abundance amount of passive income on TTSwap"
+    description: "Become liquidity providers on ThunderCore's DEX and start earning from multiple high-yield pools!"
   ttsocial_scale_dapps_on_thunder:
-    name: 'Scale your Dapps by building on ThunderCore'
-    description: 'Want to increase your project''s brand awareness and expand its user base? Come submit your project via our Dapp portal & get it listed on ThunderCore Hub to make it happen!'
+    name: "Scale your Dapps by building on ThunderCore"
+    description: "Want to increase your project's brand awareness and expand its user base? Come submit your project via our Dapp portal & get it listed on ThunderCore Hub to make it happen!"
   ttsocial_50apr_crypto_ttswap:
-    name: 'Mainstream crypto pairs with more than 50% APR, Only on TTSwap'
-    description: 'Earn transaction fees from multiple high-yield pools like BTC, ETH, USDT, USDC, BUSD, BNB, and more! Start earning now.'
+    name: "Mainstream crypto pairs with more than 50% APR, Only on TTSwap"
+    description: "Earn transaction fees from multiple high-yield pools like BTC, ETH, USDT, USDC, BUSD, BNB, and more! Start earning now."
   ttsocial_6month_development:
-    name: 'Looking back: ThunderCore''s 6 month development recap'
-    description: '2021 has been a wild and productive year for us. From cross-chain integrations to new exchange listings, let''s take a look at what we''ve accomplished in the past 6 months!'
+    name: "Looking back: ThunderCore's 6 month development recap"
+    description: "2021 has been a wild and productive year for us. From cross-chain integrations to new exchange listings, let's take a look at what we've accomplished in the past 6 months!"
   ttsocial_iris_hardfork:
-    name: 'Incoming ThunderCore Iris Hard Fork'
-    description: 'The Iris hard fork will increase cross-chain compatibility to the ThunderCore blockchain, marking a new dawn for ecosystem expansion.'
+    name: "Incoming ThunderCore Iris Hard Fork"
+    description: "The Iris hard fork will increase cross-chain compatibility to the ThunderCore blockchain, marking a new dawn for ecosystem expansion."
   ttsocial_ttswap_passive_income2:
-    name: 'Start earning passive income today'
-    description: 'Become liquidity providers on TTSwap and start earning from multiple high-yield pools!'
+    name: "Start earning passive income today"
+    description: "Become liquidity providers on TTSwap and start earning from multiple high-yield pools!"
   ttsocial_iris_hardfork_live:
-    name: 'ThunderCore''s Iris Hard Fork Phase 1 is LIVE'
-    description: 'With this, ThunderCore will become one of the most cross-chain ready and developer-friendly public blockchains in the industry!'
+    name: "ThunderCore's Iris Hard Fork Phase 1 is LIVE"
+    description: "With this, ThunderCore will become one of the most cross-chain ready and developer-friendly public blockchains in the industry!"
   ttsocial_swft_swap_on_hub:
-    name: 'SWFT AllChain Swap is now listed on ThunderCore Hub'
-    description: 'Start swapping TT, TT-BUSD, TT-USDT, & TT-USDC with 300+ tokens listed on SWFT AllChain Swap.'
+    name: "SWFT AllChain Swap is now listed on ThunderCore Hub"
+    description: "Start swapping TT, TT-BUSD, TT-USDT, & TT-USDC with 300+ tokens listed on SWFT AllChain Swap."
   ttsocial_ecosystem_10mil_funds:
-    name: 'ThunderCore Launches $10 Million in Funds For Blockchain Ecosystem Expansion'
-    description: 'Welcome developers! Come build and expand the ThunderCore ecosystem together!'
+    name: "ThunderCore Launches $10 Million in Funds For Blockchain Ecosystem Expansion"
+    description: "Welcome developers! Come build and expand the ThunderCore ecosystem together!"
   ttsocial_ttswap_passive_income3:
-    name: 'Earn passive income on TTSwap'
-    description: 'Start earning from high APR trading pairs by becoming liquidity providers!'
+    name: "Earn passive income on TTSwap"
+    description: "Start earning from high APR trading pairs by becoming liquidity providers!"
   ttsocial_10mil_funds_howto:
-    name: 'Learn how to apply for ThunderCore''s $10 million Growth Fund'
-    description: 'Only qualified projects will get to enjoy the benefits of the fund. Visit our blog to learn more.'
+    name: "Learn how to apply for ThunderCore's $10 million Growth Fund"
+    description: "Only qualified projects will get to enjoy the benefits of the fund. Visit our blog to learn more."
   ttsocial_ttswap_passive_income4:
-    name: 'Earn from high APR trading pairs on TTSwap'
-    description: 'Maximize your passive income by becoming liquidity providers on TTSwap!'
+    name: "Earn from high APR trading pairs on TTSwap"
+    description: "Maximize your passive income by becoming liquidity providers on TTSwap!"
   ttsocial_new_thundercore_website:
-    name: 'The All-New ThunderCore Website'
-    description: 'Say hello to our brand new website! We''ve made it cleaner and more modern so it''s easier to navigate all around.'
+    name: "The All-New ThunderCore Website"
+    description: "Say hello to our brand new website! We've made it cleaner and more modern so it's easier to navigate all around."
   ttsocial_earning_by_writing:
-    name: 'Start earning by writing today'
-    description: 'Maximize your passive income by becoming liquidity providers on TTSwap!'
+    name: "Start earning by writing today"
+    description: "Maximize your passive income by becoming liquidity providers on TTSwap!"
   ttsocial_new_exchange_listing:
-    name: 'New exchange listing for $TT'
-    description: 'TT is now listed on CoinEx Exchange, a platform favored by its 2 million+ users in over 100 countries and regions around the world.'
+    name: "New exchange listing for $TT"
+    description: "TT is now listed on CoinEx Exchange, a platform favored by its 2 million+ users in over 100 countries and regions around the world."
   ttsocial_num_on_thundercore:
-    name: 'Numbers issues $NUM on ThunderCore'
-    description: 'ThunderCore''s interoperability allows $NUM to get listed on multiple DEXes!'
+    name: "Numbers issues $NUM on ThunderCore"
+    description: "ThunderCore's interoperability allows $NUM to get listed on multiple DEXes!"
   ttsocial_iris_hardfork_phase2_testnet:
-    name: 'Phase 2 of the Iris Hard Fork will go live on ThunderCore''s testnet soon!'
-    description: 'In addition to these upgrades, a series of improvements around the developer ecosystem will be available soon as well.'
+    name: "Phase 2 of the Iris Hard Fork will go live on ThunderCore's testnet soon!"
+    description: "In addition to these upgrades, a series of improvements around the developer ecosystem will be available soon as well."
   ttsocial_iris_hardfork_testnet_live:
-    name: 'Iris Hard Fork Phase 2 now LIVE on the ThunderCore testnet'
-    description: 'Developers! Now''s the time to start testing out your DApps!'
+    name: "Iris Hard Fork Phase 2 now LIVE on the ThunderCore testnet"
+    description: "Developers! Now's the time to start testing out your DApps!"
   ttsocial_tt_listing_on_gateio:
-    name: 'Thunder Token to be listed on Gate.io Exchange'
-    description: 'TT/USDT and TT/ETH trading pairs will be available on Gate.io starting on Dec 6. Visit our medium for more details!'
+    name: "Thunder Token to be listed on Gate.io Exchange"
+    description: "TT/USDT and TT/ETH trading pairs will be available on Gate.io starting on Dec 6. Visit our medium for more details!"
   ttsocial_ttswap_passive_income5:
-    name: 'High APR trading pairs, only on TTSwap'
-    description: 'Maximize your earning potential by becoming liquidity providers on TTSwap!'
+    name: "High APR trading pairs, only on TTSwap"
+    description: "Maximize your earning potential by becoming liquidity providers on TTSwap!"
   ttsocial_pancake_campaign:
-    name: 'ThunderCore Wins PancakeSwap Community Farm Auction'
-    description: 'The TT-BUSD pair will be listed on the PancakeSwap Farm Pool in Dec.10. You can supply TT-BUSD liquidity to earn CAKE' 
+    name: "ThunderCore Wins PancakeSwap Community Farm Auction"
+    description: "The TT-BUSD pair will be listed on the PancakeSwap Farm Pool in Dec.10. You can supply TT-BUSD liquidity to earn CAKE"
   ttsocial_ram_pass_developer_program:
-    name: 'Congrats! Ram Protocol is the First Project to Pass Developer Program'
-    description: 'We''re pleased to announce that Ram Protocol has passed the phase 1 Growth Fund. Check out more details to enjoy 10 million growth fund.'
+    name: "Congrats! Ram Protocol is the First Project to Pass Developer Program"
+    description: "We're pleased to announce that Ram Protocol has passed the phase 1 Growth Fund. Check out more details to enjoy 10 million growth fund."
   ttsocial_webapp-lunch:
-    name: 'The Brand New ThunderCore Web App'
-    description: 'Say hello to our brand new Web App! We''ve made it easier to navigate all around.'
+    name: "The Brand New ThunderCore Web App"
+    description: "Say hello to our brand new Web App! We've made it easier to navigate all around."
   ttsocial_3_easy_ways_to_join_ram:
-    name: '3 Easy Ways to Join Ram Protocol!'
-    description: 'Join Ram Protocol via ThunderCore Hub or Thunder Bridge to realize your profit 💰 Access Ram Protocol via any Exchanges and enjoy higher APR right away!'
+    name: "3 Easy Ways to Join Ram Protocol!"
+    description: "Join Ram Protocol via ThunderCore Hub or Thunder Bridge to realize your profit 💰 Access Ram Protocol via any Exchanges and enjoy higher APR right away!"
   ttsocial_congrats_ttfarm_passing:
-    name: 'Congrats to TTFarm for passing Phase 1 of the Growth Fund!'
-    description: 'We''re pleased to announce that TTFarm has passed Phase 1 of the Developer Program! Visit Twitter to retweet and learn more!'
+    name: "Congrats to TTFarm for passing Phase 1 of the Growth Fund!"
+    description: "We're pleased to announce that TTFarm has passed Phase 1 of the Developer Program! Visit Twitter to retweet and learn more!"
   ttsocial_ram_pass_certik:
-    name: 'Another Milestone for Ram Protocol passing CertiK Audit!'
-    description: 'Secure. Safe. Earn. Let''s celebrate with Ram Protocol for passing the CertiK audit report!'
+    name: "Another Milestone for Ram Protocol passing CertiK Audit!"
+    description: "Secure. Safe. Earn. Let's celebrate with Ram Protocol for passing the CertiK audit report!"
   ttsocial_hard_fork_live_maninet:
-    name: 'Breaking News! ThunderCore Iris Hard Fork Phase 2 is live on Mainnet!'
-    description: 'After extensive testing on the testnet, we are ecstatic to share that Phase 2 of Iris hard fork is officially live on the ThunderCore Mainnet!'
+    name: "Breaking News! ThunderCore Iris Hard Fork Phase 2 is live on Mainnet!"
+    description: "After extensive testing on the testnet, we are ecstatic to share that Phase 2 of Iris hard fork is officially live on the ThunderCore Mainnet!"
   ttsocial_flashboys_1st:
-    name: '1st AMA with Flashboys'' DApp Ram Protocol incoming!'
-    description: 'Come join our Discord AMA on 1/25 08:00 UTC and win $200 Reward!'
+    name: "1st AMA with Flashboys' DApp Ram Protocol incoming!"
+    description: "Come join our Discord AMA on 1/25 08:00 UTC and win $200 Reward!"
   ttsocial_mining_v5:
-    name: 'TT Mining V5 is now live on ThunderCore!!'
-    description: 'New feature: Fixed saving plan for stablecoin with up to 30% APY! Go to TT Mining now and subscribe a plan to earn HIGH APY!'
+    name: "TT Mining V5 is now live on ThunderCore!!"
+    description: "New feature: Fixed saving plan for stablecoin with up to 30% APY! Go to TT Mining now and subscribe a plan to earn HIGH APY!"
   ttsocial_vote_on_debank:
-    name: 'VOTE on DeBank to Support ThunderCore Listing'
-    description: 'We are sharing 30,000 $TT to our lovely community. Act now to support us and win 30,000 $TT!!'
+    name: "VOTE on DeBank to Support ThunderCore Listing"
+    description: "We are sharing 30,000 $TT to our lovely community. Act now to support us and win 30,000 $TT!!"
   ttsocial_thunder_manager_phase1:
-    name: 'ThunderManager Qualified for phase 1 $10Million Growth Fund'
-    description: 'Come and join us to celebrate ThunderManager completed the first phase of its Developer Fund Program!!'
+    name: "ThunderManager Qualified for phase 1 $10Million Growth Fund"
+    description: "Come and join us to celebrate ThunderManager completed the first phase of its Developer Fund Program!!"
   ttsocial_topic_on_dao:
-    name: 'DAO: the Cornerstone of Trust in the Metaverse'
-    description: 'An interesting topic on DAO, Something you might wanna know before getting into Metaverse'
+    name: "DAO: the Cornerstone of Trust in the Metaverse"
+    description: "An interesting topic on DAO, Something you might wanna know before getting into Metaverse"
   ttsocial_compliance_in_korea:
-    name: 'We''re Completing Compliance with Various Parties in South Korea!'
-    description: 'ThunderCore is in contact with various parties in South Korea to complete compliance docking for the South Korean cryptocurrency market'
+    name: "We're Completing Compliance with Various Parties in South Korea!"
+    description: "ThunderCore is in contact with various parties in South Korea to complete compliance docking for the South Korean cryptocurrency market"
   ttsocial_partnership_with_xy_finance:
-    name: 'Strategic Partnership with XY Finance!!'
-    description: 'ThunderCore has formed a Strategic Partnership with XY Finance: One Stop Cross-Chain Aggregator For DeFi & Metaverse'
+    name: "Strategic Partnership with XY Finance!!"
+    description: "ThunderCore has formed a Strategic Partnership with XY Finance: One Stop Cross-Chain Aggregator For DeFi & Metaverse"
   ttsocial_xy_finance_airdrop_event:
-    name: 'ThunderCore | XY Finance Strategic Partnership USD$ 1,200 Airdrop event'
-    description: 'We''re airdropping USD$ 1,200 worth of XY+TT Token for our lovely community, come join us to spread the joy!'
+    name: "ThunderCore | XY Finance Strategic Partnership USD$ 1,200 Airdrop event"
+    description: "We're airdropping USD$ 1,200 worth of XY+TT Token for our lovely community, come join us to spread the joy!"
   ttsocial_laswswap_qualified_phase1:
-    name: 'LaserSwap Qualified for phase 1 $10Million Growth Fund!!'
-    description: 'Come and join us to celebrate LaserSwap completed the first phase of its Developer Fund Program'
+    name: "LaserSwap Qualified for phase 1 $10Million Growth Fund!!"
+    description: "Come and join us to celebrate LaserSwap completed the first phase of its Developer Fund Program"
   ttsocial_join_thundercore_on_discord:
-    name: 'Join ThunderCore on Discord!! '
-    description: 'ThunderCore''s community has been growing! Join ThunderCore''s Discord to get access to community insights, project updates, AMA''s and more!'
+    name: "Join ThunderCore on Discord!! "
+    description: "ThunderCore's community has been growing! Join ThunderCore's Discord to get access to community insights, project updates, AMA's and more!"
   ttsocial_xy_finance_ama_incoming:
-    name: 'ThunderCore | XY Finance AMA incoming!!'
-    description: 'We''re holding an AMA with XY Finance on 3/16 16:00 PM (UTC+8) join for a chance of sharing USD$200 worth of rewards !!'
+    name: "ThunderCore | XY Finance AMA incoming!!"
+    description: "We're holding an AMA with XY Finance on 3/16 16:00 PM (UTC+8) join for a chance of sharing USD$200 worth of rewards !!"
   ttsocial_start_developing_on_thundercore:
-    name: 'Start Developing on ThunderCore!'
-    description: 'Join the $10M Developer Growth Fund to build and scale your DApps on ThunderCore! Join Now!!'
+    name: "Start Developing on ThunderCore!"
+    description: "Join the $10M Developer Growth Fund to build and scale your DApps on ThunderCore! Join Now!!"
   ttsocial_trading_competition_is_on:
-    name: 'Trading Competition is on!! 3/18 08:00 (UTC) - 3/24 06:00 (UTC)'
-    description: 'XY Finance and ThunderCore Trading Competition LIVE with 6,000 $XY and $3,000 $TT in Prizes! Join us NOW!'
+    name: "Trading Competition is on!! 3/18 08:00 (UTC) - 3/24 06:00 (UTC)"
+    description: "XY Finance and ThunderCore Trading Competition LIVE with 6,000 $XY and $3,000 $TT in Prizes! Join us NOW!"
   ttsocial_cexiswap_qualified:
-    name: 'CEXISWAP Qualified for phase 1 $10Million Growth Fund!!'
-    description: 'Come and join us to celebrate CEXISWAP completed the first phase of its Developer Fund Program'
+    name: "CEXISWAP Qualified for phase 1 $10Million Growth Fund!!"
+    description: "Come and join us to celebrate CEXISWAP completed the first phase of its Developer Fund Program"
   ttsocial_join_thundercore_on_discord_2:
-    name: 'Join ThunderCore on Discord!'
-    description: 'When ThunderCore’s Discord reaches 10,000 members we will giveaway $500 in $TT split amongst 5 winners! Join now!! '
+    name: "Join ThunderCore on Discord!"
+    description: "When ThunderCore’s Discord reaches 10,000 members we will giveaway $500 in $TT split amongst 5 winners! Join now!! "
   ttsocial_P2E_on_thunder:
-    name: 'Play to Earn on ThunderCore!'
-    description: 'Like, Retweet and comment your favorite Play to Earn DApps on ThunderCore!'
+    name: "Play to Earn on ThunderCore!"
+    description: "Like, Retweet and comment your favorite Play to Earn DApps on ThunderCore!"
   ttsocial_sc_game_qualified_phase1:
-    name: 'SCGames Qualified for phase 1 $10Million Growth Fund!!'
-    description: 'Come and join us to celebrate SCGames completed the first phase of its Developer Fund Program'
+    name: "SCGames Qualified for phase 1 $10Million Growth Fund!!"
+    description: "Come and join us to celebrate SCGames completed the first phase of its Developer Fund Program"
   ttsocial_join_our_10M_growth_fund:
-    name: 'Join our $10M Growth Fund!'
-    description: 'Jumpstart your development journey on ThunderCore by participating in our $10M Growth Fund, learn more!'
+    name: "Join our $10M Growth Fund!"
+    description: "Jumpstart your development journey on ThunderCore by participating in our $10M Growth Fund, learn more!"
   ttsocial_cexiswap_ama:
-    name: 'ThunderCore | CEXISWAP AMA incoming!!'
-    description: 'We''re holding an AMA with CEXISWAP on 4/1 16:00 PM (UTC+8) join for a chance of sharing USD$200 worth of rewards !!'
+    name: "ThunderCore | CEXISWAP AMA incoming!!"
+    description: "We're holding an AMA with CEXISWAP on 4/1 16:00 PM (UTC+8) join for a chance of sharing USD$200 worth of rewards !!"
   bogo:
-    name: 'Bogo for gamers'
+    name: "Bogo for gamers"
     description: 'Spend {number} TT in DApp: "{Game_Name}"'
   bogo_christmas:
-    name: 'Win with your dice🎲'
+    name: "Win with your dice🎲"
     description: 'Spend 2 TT at "{Game_Name}" and get 2 TT back. Call your friends to play dice together!'
   bogo_new_year:
-    name: 'Milky Way and Jelly✨'
+    name: "Milky Way and Jelly✨"
     description: 'Spend 3 TT at "{Game_Name}" and get 3 TT back. Try to find joy in the galaxy or earn rewards by smashing jelly!'
   bogo_movie:
-    name: 'Get TT by watching'
-    description: 'Watch 1 video on {Game_Name} Earn to get free TT'
+    name: "Get TT by watching"
+    description: "Watch 1 video on {Game_Name} Earn to get free TT"
   newbie_sign_up_bonus:
-    name: 'Newbie sign up bonus'
-    description: 'Complete new account signup. Limited bonus daily.'
-
-  ttsocial_heco_trading_competition:
-    name: 'El concurso de trading ThunderCore X HECO ya está en diponible en TTSwap'
-    description: 'Con $20 000 dólares de premio total. ¡Aprenda como calificar ahora!'
-  ttsocial_animation_music_nft_contest:
-    name: 'ThunderCore es el coorganizador del próximo concurso de Animacion y Musica NFT'
-    description: 'Obtenga más información sobre cómo ganar premios de hasta 1 millón de yenes'
-  ttsocial_ttswap_liquidity_provider:
-    name: 'Conviértase en un proveedor de liquidez y gane con los pozos de liquidez de alto rendimiento en TTSwap'
-    description: 'Actualmente soporta 18 pares de operaciones: WBTC, ETH, BNB, USDT, BUSD, ¡y más!'
-  ttsocial_anime_music_nft_contest_live:
-    name: '¡El concurso de NFT de Animation X Music ha comenzado!'
-    description: '¡Cree NFTs con bucles de estética anime en ThunderCore y compita por ganar hasta 1 millón de yenes! Más información.'
-  ttsocial_ftt_on_ttswap:
-    name: 'Farm Thunder Token (FTT) has launched on TTSwap'
-    description: 'Join TTFarm''s massive Airdrop Giveaway and IFO on Ram Protocol to earn FTT!'
-  ttsocial_thunder_tokens_on_swft:
-    name: 'TT, TT-BUSD, TT-USDT y TT-USDC se lanzaran en SWFT All Chain Swap'
-    description: '¡Pronto, los usuarios podrán acceder a SWFT All Chain Swap en ThunderCore Hub!'
-  ttsocial_ttswap_passive_income:
-    name: 'Gane una abundante cantidad de ingresos pasivos en TTSwap'
-    description: 'Conviértase en proveedor de liquidez en el DEX de ThunderCore y comience a ganar con múltiples fondos con alto rendimiento.'
-  ttsocial_scale_dapps_on_thunder:
-    name: 'Escale sus Dapps en ThunderCore'
-    description: '¿Quieres aumentar la visibilidad de tu proyecto y ampliar la base de usuarios? Para hacerlo efectivo, envíe su proyecto a través de nuestro Portal de Dapp y logrará que se liste en ThunderCore Hub!'
-  ttsocial_50apr_crypto_ttswap:
-    name: 'Pares de criptomonedas principales con más del 50% de APR, sólo en TTSwap'
-    description: 'Gana comisiones por las transacción en múltiples pools de alto rendimiento como BTC, ETH, USDT, USDC, BUSD, BNB, ¡y más! Empieze a ganar ahora.'
-  ttsocial_6month_development:
-    name: 'En retrospectiva: Resumen de 6 meses de desarrollo de ThunderCore'
-    description: 'El 2021 ha sido un año muy productivo para nosotros. Desde integraciones entre cadenas hasta nuevos listados de intercambio, ¡echemos un vistazo a lo que hemos logrado en los últimos 6 meses!'
-  ttsocial_iris_hardfork:
-    name: 'Próximamente ThunderCore lanzará su hardfork Iris'
-    description: 'El hard fork Iris aumentará la compatibilidad cross-chain en la blockchain ThunderCore, marcando un nuevo hito para la expansión del ecosistema.'
-  ttsocial_ttswap_passive_income2:
-    name: 'Empieza a ganar ingresos pasivos hoy mismo'
-    description: '¡Conviertete en proveedor de liquidez en TTSwap y comienza a ganar desde múltiples pools de alto rendimiento!'
-  ttsocial_iris_hardfork_live:
-    name: 'La fase 1 del Hard Fork Iris de ThunderCore está en vivo'
-    description: '¡Con esto, ThunderCore se convertirá en una de las blockchains públicas más preparadas para la compatibilidad entre blockchains  y más  amigables para los desarrolladores en la industria!'
-  ttsocial_swft_swap_on_hub:
-    name: 'SWFT AllChain Swap ha sido añadida a ThunderCore Hub'
-    description: 'Comience a intercambiar TT, TT-BUSD, TT-USDT y TT-USDC con más de 300 tokens listados en SWFT AllChain Swap.'
-  ttsocial_ecosystem_10mil_funds:
-    name: 'ThunderCore lanza un fondo de 10 millones de dólares para la expansión del ecosistema Blockchain.'
-    description: '¡Bienvenidos desarrolladores! ¡Vengan todos a construir y expandir en el ecosistema de ThunderCore !'
-  ttsocial_ttswap_passive_income3:
-    name: 'Obtenga ingresos pasivos en TTSwap.'
-    description: '¡Comience a ganar con pares de trading de alto APR convirtiéndose en proveedores de liquidez!'
-  ttsocial_10mil_funds_howto:
-    name: 'Aprenda a solicitar el Fondo de Crecimiento de 10 millones de dólares de ThunderCore'
-    description: 'Sólo los proyectos calificados podrán disfrutar de los beneficios del fondo. Visite nuestro blog para obtener más información.'
-  ttsocial_ttswap_passive_income4:
-    name: 'Gane con pares de trading de alto APR en TTSwap'
-    description: '¡Maximice sus ingresos pasivos al ser proveedor de liquidez en TTSwap!'
-  ttsocial_new_thundercore_website:
-    name: 'Nueva web de ThunderCore'
-    description: 'Extrena nuestro nuevo sitio web. Lo hemos hecho más limpio y moderno para que sea más ameno al navegar.'
-  ttsocial_earning_by_writing:
-    name: 'Empieza a ganar escribiendo hoy mismo'
-    description: 'Conoce nuestras directrices de envío y cómo puedes empezar a ganar. Si te apasiona escribir, ¡esto es para ti!'
-  ttsocial_new_exchange_listing:
-    name: 'Nuevo listado en exchange para $TT'
-    description: 'TT ahora cotiza en CoinEx Exchange, una plataforma favorecida por sus más de 2 millones de usuarios en más de 100 países y regiones de todo el mundo.'
-  ttsocial_num_on_thundercore:
-    name: 'Numbers issues $NUM on ThunderCore'
-    description: 'ThunderCore''s interoperability allows $NUM to get listed on multiple DEXes!'
-  ttsocial_iris_hardfork_phase2_testnet:
-    name: 'La fase 2 del HardFork Iris se pondrá en marcha pronto en la red de pruebas de ThunderCore.'
-    description: 'Además de estas actualizaciones, una serie de mejoras en torno al ecosistema de desarrolladores también estarán disponibles pronto.'
-  ttsocial_iris_hardfork_testnet_live:
-    name: 'La fase 2 del HardFork Iris ya está desplegada en la red de pruebas de ThunderCore'
-    description: '¡Desarrolladores! ¡Ahora es el momento de empezar a probar sus DApps!'
-  ttsocial_tt_listing_on_gateio:
-    name: 'Thunder Token será enlistado en el exchange Gate.io'
-    description: ' Los pares de intercambio TT/USDT y TT/ETH estarán disponibles en Gate.io a partir del 6 de diciembre. ¡Visite nuestro medium para más detalles!'
-  ttsocial_ttswap_passive_income5:
-    name: 'Pares de trading de alto APR, sólo en TTSwap'
-    description: '¡Maximice su potencial de ganancias convirtiéndose en proveedores de liquidez en TTSwap!'
-  ttsocial_pancake_campaign:
-    name: 'ThunderCore Wins PancakeSwap Community Farm Auction'
-    description: 'The TT-BUSD pair will be listed on the PancakeSwap Farm Pool in Dec.10. You can supply TT-BUSD liquidity to earn CAKE' 
-  ttsocial_ram_pass_developer_program:
-    name: '¡Felicidades! Ram Protocol es el primer proyecto en pasar el programa de desarrolladores'
-    description: 'Nos complace anunciar que Ram Protocol ha pasado la fase 1 y 2 del programa de desarrolladores. Consulta más detalles para disfrutar de un fondo de crecimiento de 10 millones.'
-  ttsocial_webapp-lunch:
-    name: 'La nueva Aplicación Web del ThunderCore '
-    description: 'Conozca a nuestra nueva aplicación web. Hemos facilitado la navegación en muchos aspectos.'
-  ttsocial_3_easy_ways_to_join_ram:
-    name: '¡3 Formas fáciles de unirse a Ram Protocol!'
-    description: 'Únete a Ram Protocol a través de ThunderCore Hub o ThunderCore Bridge para obtener tu beneficio 💰. Accede a Ram Protocol a través de cualquier Exchange y disfruta de una mayor APR de inmediato!'
-  ttsocial_congrats_ttfarm_passing:
-    name: '¡Enhorabuena a TTFarm por haber superado la Fase 1 del Fondo de Crecimiento!'
-    description: '¡Nos complace anunciar que TTFarm ha superado la Fase 1 del Programa para Desarrolladores! ¡Visite Twitter para retuitear y saber más!'
-  ttsocial_ram_pass_certik:
-    name: '¡Ram cumple su siguiente reto, el Protocolo Ram pasa la auditoría CertiK!'
-    description: 'Protegido, Seguro y con Ganancias. Celebremos con Ram Protocol por haber pasado el informe de auditoría CertiK!'
-  ttsocial_hard_fork_live_maninet:
-    name: '¡Noticias de última hora! ¡La fase 2 de la Hard Fork de ThunderCore Iris está en vivo en la Mainnet!'
-    description: '¡Después de extensas pruebas en la Testnet, estamos encantados de compartir que la Fase 2 del Hard Fork de Iris está oficialmente en vivo en la Mainnet de ThunderCore!'
-  ttsocial_flashboys_1st:
-    name: '¡1er AMA con la DApp Ram Protocol de Flashboys!'
-    description: 'Únete a nuestro Discord AMA el 25 de enero a las 08:00 UTC y gana una recompensa de 200 dólares.'
-  ttsocial_mining_v5:
-    name: '¡#TT Mining V5 ya está disponible en ThunderCore!'
-    description: 'Nueva función: ¡Plan de ahorro fijo para #Stablecoin con hasta un 30% de APR! Accede a TT Mining ahora y suscríbete a un plan para ganar altas recompensas de APR!'
-  ttsocial_vote_on_debank:
-    name: 'VOTA en DeBank para apoyar al listado de ThunderCore'
-    description: 'Estamos compartiendo 30 000 $TT a nuestra maravillosa  comunidad. ¡¡Actúa ahora para apoyarnos y gana 30 000 $TT!!'
-  ttsocial_thunder_manager_phase1:
-    name: 'ThunderManager ha calificado para la fase 1 del Fondo de Crecimiento de 10 millones de dólares'
-    description: '¡¡Ven y únete a nosotros para celebrar que ThunderManager ha completado la primera fase de su Programa de Fondo de Desarrollo!!'
-  ttsocial_topic_on_dao:
-    name: 'DAO: la piedra angular de la confianza en el Metaverso'
-    description: 'Un tema interesante sobre DAO, algo que quizás quieras saber antes de entrar en el Metaverso'
-  ttsocial_compliance_in_korea:
-    name: '¡Estamos completando el cumplimiento de las normas con varias partes en Corea del Sur!'
-    description: 'ThunderCore está en contacto con varias partes en Corea del Sur para completar  las normas del mercado de criptomonedas de Corea del Sur'
-  ttsocial_partnership_with_xy_finance:
-    name: '¡Asociación estratégica con XY Finance!'
-    description: 'ThunderCore ha formado una asociación estratégica con XY Finance: Un agregador interoperable entre cadenas  para DeFi y Metaverse'
-  ttsocial_xy_finance_airdrop_event:
-    name: 'Asociación Estratégica de ThunderCore con  XY Finance. Evento de lanzamiento de USD$ 1200'
-    description: 'Airdrop de un valor de USD$ 1200 en  XY y TT  para nuestra amada comunidad, ¡venga a unirse a nosotros para difundir la alegría!'
-  ttsocial_laswswap_qualified_phase1:
-    name: '¡LaserSwap califica para la fase 1 del fondo de crecimiento de 10 millones de dólares!'
-    description: 'Ven y únete a nosotros para celebrar que LaserSwap ha completado la primera fase de su Programa de Fondo de Desarrollo.'
-  ttsocial_join_thundercore_on_discord:
-    name: '¡¡Únete a ThunderCore en Discord!!'
-    description: 'La comunidad de ThunderCore ha crecido. Únete al Discord de ThunderCore para tener acceso a las opiniones de la comunidad, las actualizaciones de los proyectos, los AMA y mucho más.'
-  ttsocial_xy_finance_ama_incoming:
-    name: '¡¡ThunderCore | XY Finance AMA en camino!!'
-    description: 'Vamos a celebrar un AMA con XY Finance el 16 de marzo a las 16:00 PM (UTC+8) y podrás participar en el sorteo de 200 dólares en premios.'
-  ttsocial_start_developing_on_thundercore:
-    name: '¡Empieza a desarrollar en ThunderCore!'
-    description: '¡Únase al Fondo de Crecimiento de Desarrolladores de 10 millones de dólares para construir y escalar sus DApps en ThunderCore! ¡Únete ahora!'
-  ttsocial_trading_competition_is_on:
-    name: '¡El concurso de intercambio está en marcha! 3/18 08:00 (UTC) - 3/24 06:00 (UTC)'
-    description: '¡Concurso de trading de XY Finance y ThunderCore EN VIVO con 6000 $XY y 3000 $TT en premios! ¡Únete a nosotros ahora!'
-  ttsocial_cexiswap_qualified:
-    name: '¡CEXISWAP califica para la fase 1 del fondo de crecimiento de 10 millones de dólares!'
-    description: 'Ven y únete a nosotros para celebrar que CEXISWAP ha completado la primera fase del Programa del Fondo para Desarradpres.'
-  ttsocial_join_thundercore_on_discord_2:
-    name: '¡Únete a ThunderCore en Discord!'
-    description: 'Cuando el Discord de ThunderCore alcance los 10 000 miembros, ¡regalaremos 500$ en $TT repartidos entre 5 ganadores! ¡¡Únete ahora!!'
-  ttsocial_P2E_on_thunder:
-    name: 'Play to Earn on ThunderCore!'
-    description: 'Like, Retweet and comment your favorite Play to Earn DApps on ThunderCore!'
-  ttsocial_sc_game_qualified_phase1:
-    name: '¡SCGames califica para la fase 1 del fondo de crecimiento de 10 millones de dólares!'
-    description: 'Ven y únete a nosotros para celebrar que SCGames ha completado la primera fase del Programa del Fondo para Desarradpres.'
-  ttsocial_join_our_10M_growth_fund:
-    name: '¡Únase a nuestro Fondo de Crecimiento de 10 millones de dólares!'
-    description: 'Inicie su viaje de desarrollo en ThunderCore participando en nuestro Fondo de Crecimiento de 10 millones de dólares, ¡obtenga más información!'
-  ttsocial_cexiswap_ama:
-    name: '¡¡ThunderCore | CEXISWAP AMA en camino!!'
-    description: 'Vamos a celebrar un AMA con CEXISWAP el 16 de marzo a las 16:00 PM (UTC+8) y podrás participar en el sorteo de 200 dólares en premios.'
+    name: "Newbie sign up bonus"
+    description: "Complete new account signup. Limited bonus daily."
